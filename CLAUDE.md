@@ -6,10 +6,10 @@
 - **Test budget:** $50 split across 3 angles (~$16.67 each)
 - **Images:** Higgsfield, model `nano_banana_pro` (realistic photos, about 2 credits each). Set to
   `none` to ship pages with empty image spots you fill yourself.
-- **Legal business name:** `[Your Business LLC]`
-- **Contact email:** `[contact@yourdomain.com]`
-- **Mailing address:** `[Street, City, State ZIP, Country]`
-- **Governing law:** `[State / Country]`
+- **Legal business name:** `JMO Digital Assets, LLC`
+- **Contact email:** `support@jmodigitalassets.com`
+- **Mailing address:** `243 Clubhouse Xing, Acworth, GA 30101, United States`
+- **Governing law:** `United States`
   (These four fill the Privacy Policy and Terms on every campaign. While they're in [brackets], the
   pages show them highlighted and the dashboard warns. Change them here, then run `/legal all`.)
 
